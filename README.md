@@ -4,14 +4,37 @@
 </div>
 
 ### CNU CSE Junior
-- Machine Learing Engineer in Trasportation industry(Mobility - Car Sharing, Ride Hailing)
-- I organize a group of developers who write blog posts - 글쓰는 개발자 모임, [글또](https://bit.ly/geultto)
-
+- CSE Junior of Chungnam National University
+- 
 ### Interest
-- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
+- MLOps(Machine Learing Operation)
+- ML/DL Production
 - Google Cloud Platform(Especially, BigQuery)
 - Operation Research
-- Leadership, Mentoring, Writing, Presentation
+- Leadership, Mentoring
+
+
+## 소개 
+- Github : [https://github.com/201702083](https://github.com/201702083)
+- [Tistory](https://coderhs.tistory.com/)
+- Mail : [chs29359685@gmail.com](chs29359685@gmail.com)
+
+
+
+## 프로젝트
+
+| 프로젝트명 	| 기간 	|  역할 	| 설명 	|
+|-----------------------------------------|-------------|----------------------------|---------------------------------------------------	|
+| [Go-stop Game](https://github.com/201702083/Gostop_TeamPrjt) | 2020.10 | 게임 Alogirthm 구현<br> | OOP Class TeamPRJ<br>최종 점수 : **A** / A+
+| [DataSetForDBclass](https://github.com/201702083/WebCrowling) 	| 2021.4 	| 분석<br>크롤링 	| DB Class를 위한 자동화 코드 <br>  	|
+| [Weather-App](https://github.com/201702083/RN-WeatherApp) 	| 2021.5 - 6 	|  백엔드&UI<br>데이터 처리 	| RC Class TeamPRJ <br>   	|
+
+
+
+- Tech Blog : [https://zzsza.github.io/](https://zzsza.github.io/)
+- Tech Youtube : [https://www.youtube.com/c/kyleschool](https://www.youtube.com/c/kyleschool)
+- Slideshare : [https://www.slideshare.net/zzsza](https://www.slideshare.net/zzsza]
+- Email : [snugyun01@gmail.com](snugyun01@gmail.com)
 
 <div align=center>
   
