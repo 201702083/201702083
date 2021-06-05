@@ -12,14 +12,6 @@
 - fetching State machine
 - React-Native framework
 
-
-## 소개 
-- Github : [https://github.com/201702083](https://github.com/201702083)
-- Tistory : [https://coderhs.tistory.com/](https://coderhs.tistory.com/)
-- Mail : [chs29359685@gmail.com](chs29359685@gmail.com)
-
-
-
 ## 프로젝트
 
 | 프로젝트명 	| 기간 	|  역할 	| 설명 	|
@@ -29,14 +21,9 @@
 | [Go-stop Game](https://github.com/201702083/Gostop_TeamPrjt) | 2020.10 | 게임 Alogirthm 구현<br> | OOP Class TeamPRJ<br>최종 점수 : **A+** / A+
 
 
-
-- Tech Blog : [https://zzsza.github.io/](https://zzsza.github.io/)
-- Tech Youtube : [https://www.youtube.com/c/kyleschool](https://www.youtube.com/c/kyleschool)
-- Slideshare : [https://www.slideshare.net/zzsza](https://www.slideshare.net/zzsza]
-- Email : [snugyun01@gmail.com](snugyun01@gmail.com)
-
 <div align=center>
   
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://coderhs.tistory.com/)](https://coderhs.tistory.com/)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chs29359685@gmail.com)](mailto:chs29359685@gmail.com)
 
 </div>
