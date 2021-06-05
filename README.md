@@ -5,7 +5,8 @@
 
 ### CNU CSE Junior
 - CSE Junior of Chungnam National University
-- 
+- I have firm goal to Machine Learning.
+
 ### Interest
 - MLOps(Machine Learing Operation)
 - ML/DL Production
@@ -16,7 +17,7 @@
 
 ## 소개 
 - Github : [https://github.com/201702083](https://github.com/201702083)
-- [Tistory](https://coderhs.tistory.com/)
+- Tistory : [https://coderhs.tistory.com/](https://coderhs.tistory.com/)
 - Mail : [chs29359685@gmail.com](chs29359685@gmail.com)
 
 
