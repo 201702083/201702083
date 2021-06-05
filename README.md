@@ -5,14 +5,12 @@
 
 ### CNU CSE Junior
 - CSE Junior of Chungnam National University
-- I have firm goal to Machine Learning.
+- Enjoy not only Front-end but also Back-end.
 
 ### Interest
-- MLOps(Machine Learing Operation)
-- ML/DL Production
-- Google Cloud Platform(Especially, BigQuery)
-- Operation Research
-- Leadership, Mentoring
+- SQL DB control
+- fetching State machine
+- React-Native framework
 
 
 ## 소개 
@@ -26,7 +24,7 @@
 
 | 프로젝트명 	| 기간 	|  역할 	| 설명 	|
 |-----------------------------------------|-------------|----------------------------|---------------------------------------------------	|
-| [Go-stop Game](https://github.com/201702083/Gostop_TeamPrjt) | 2020.10 | 게임 Alogirthm 구현<br> | OOP Class TeamPRJ<br>최종 점수 : **A** / A+
+| [Go-stop Game](https://github.com/201702083/Gostop_TeamPrjt) | 2020.10 | 게임 Alogirthm 구현<br> | OOP Class TeamPRJ<br>최종 점수 : **A+** / A+
 | [DataSetForDBclass](https://github.com/201702083/WebCrowling) 	| 2021.4 	| 분석<br>크롤링 	| DB Class를 위한 자동화 코드 <br>  	|
 | [Weather-App](https://github.com/201702083/RN-WeatherApp) 	| 2021.5 - 6 	|  백엔드&UI<br>데이터 처리 	| RC Class TeamPRJ <br>   	|
 
