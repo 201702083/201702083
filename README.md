@@ -15,6 +15,6 @@
 
 <div align=center>
   
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://coderhs.tistory.com/)](https://coderhs.tistory.com/)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://coderhs.tistory.com/)](https://coderhs.tistory.com/)
 
 </div>
