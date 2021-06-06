@@ -8,8 +8,8 @@
 - Enjoy not only Front-end but also Back-end.
 
 ### Interest
-- SQL DB control
-- fetching State machine
+- Optimizing DB control
+- Fetching State machine
 - React-Native framework
 
 ## 프로젝트
