@@ -22,7 +22,7 @@
 
 | 프로젝트명 	| 기간 	|  역할 	| 설명 	|
 |-----------------------------------------|-------------|----------------------------|---------------------------------------------------	|
-| Store-Information-App	| 2021.6 ~ 	|  풀스택 	| 창업 공모전 선발 아이템 개발   	|
+| [Store-Information-App](https://github.com/201702083/ZzikKong)	| 2021.6 ~ 	|  풀스택 	| 창업 공모전 선발 아이템 개발   	|
 | [Weather-App](https://github.com/201702083/RN-WeatherApp) 	| 2021.5 - 6 	|  백엔드&UI<br>데이터 처리 	| RC Class TeamPRJ <br>   	|
 | [DataSetForDBclass](https://github.com/201702083/WebCrowling) 	| 2021.4 	| 분석<br>크롤링 	| DB Class를 위한 자동화 코드 <br>  	|
 | [Go-stop Game](https://github.com/201702083/Gostop_TeamPrjt) | 2020.10 | 게임 Alogirthm 구현<br> | OOP Class TeamPRJ<br>최종 점수 : **A+** / A+
