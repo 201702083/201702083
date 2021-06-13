@@ -6,7 +6,7 @@
 
 ### CNU CSE Junior
 - CSE Junior of Chungnam National University
-- Enjoy not only Front-end but also Back-end.
+- Be a Full stack developer, Learning back-end and cloud
 
 ### Interest
 - Optimizing DB control
