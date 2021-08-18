@@ -37,9 +37,10 @@
 | 프로젝트명 	| 기간 	|  역할 	| 설명 	|
 |-----------------------------------------|-------------|----------------------------|---------------------------------------------------	|
 | [Store-Information-App](https://github.com/201702083/ZzikKong)	| 2021.6 ~ 	|  풀스택 	| 매장 현장정보 제공    	|
+| Internship at TEEWare	| 2021.6 ~ 2021.8	|  UI<br>BackEnd 	| TEEWare 웹 UI  <br> Vue * Golang   	|
 | [Weather-App](https://github.com/201702083/RN-WeatherApp) 	| 2021.5 - 6 	|  UI<br>데이터 처리 	| OpenWeather Api를 이용하여<br> 하루 치의 날씨 정보 제공	|
 | [DataSetForDBclass](https://github.com/201702083/WebCrowling) 	| 2021.4 	| 분석<br>크롤링 	| DB Class를 위한 자동화 코드 <br>  	|
-| [Go-stop Game](https://github.com/201702083/Gostop_TeamPrjt) | 2020.10 | 게임 Alogirthm 구현<br> | OOP Class TeamPRJ<br>
+| [Go-stop Game](https://github.com/201702083/Gostop_TeamPrjt) | 2020.10 | 게임 Alogirthm 구현<br> | OOP Class TeamPRJ<br>    |
 
 
 <div align=center>
