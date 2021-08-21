@@ -10,9 +10,10 @@
 - Be a Full stack developer, Learning back-end and cloud
 
 ### Interest
+- Apply chatbot to service
 - Optimizing DB control
-- Fetching State machine
-- React-Native framework
+
+
  
 <div align=center>
   <h3> Skilled </h3>
