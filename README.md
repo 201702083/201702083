@@ -9,7 +9,7 @@
 - Be a Full stack developer, Learning back-end and cloud
 
 ### Interest
-- Object detect in image.
+- Detecting object in image.
 - Optimizing DB control
 
 
