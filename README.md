@@ -7,7 +7,7 @@
 
 ### CNU CSE Junior
 - CSE Junior of Chungnam National University
-- Be a Full stack developer, Learning back-end and cloud
+- Currently learning cloud computing with docker
 
 ### Interest
 - Detecting object in image.
