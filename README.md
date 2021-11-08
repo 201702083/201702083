@@ -38,7 +38,7 @@
 
 | Name 	| Due 	|  Role 	| Desc 	|
 |-----------------------------------------|-------------|----------------------------|---------------------------------------------------	|
-| [Can-U-Join-Us](https://github.com/Can-U-Join-Us)	| 2021.10 ~ 	|  Server 	| 팀원 모집 플랫폼    	|
+| [Can-U-Join-Us](https://github.com/Can-U-Join-Us)	| 2021.10 ~ 	|  Server<br>DBA 	| 팀원 모집 플랫폼    	|
 | [Store-Information-App](https://github.com/201702083/ZzikKong)	| 2021.6 ~ 	|  Full 	| 매장 현장정보 제공    	|
 | Internship at [TEEWare](https://github.com/teeware-io)	| 2021.6 ~ 2021.8	|  UI<br>BackEnd 	| TEEWare 웹 UI  <br> Vue * Golang   	|
 | [Weather-App](https://github.com/201702083/RN-WeatherApp) 	| 2021.5 - 6 	|  UI<br>Data Processing 	| OpenWeather Api를 이용하여<br> 하루 치의 날씨 정보 제공	|
