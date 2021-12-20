@@ -37,7 +37,7 @@
 
 | Name 	| Due 	|  Role 	| Desc 	|
 |-----------------------------------------|-------------|----------------------------|---------------------------------------------------	|
-| [Can-U-Join-Us](https://github.com/Can-U-Join-Us)	| 2021.10 ~ 	|  Server<br>DBA 	| 팀원 모집 플랫폼    	|
+| [Can-U-Join-Us](https://github.com/Can-U-Join-Us/CUJU-Backend)	| 2021.10 ~ 	|  Server<br>DBA 	| 팀원 모집 플랫폼    	|
 | [Store-Information-App](https://github.com/201702083/ZzikKong)	| 2021.6 ~ 	|  Full 	| 매장 현장정보 제공    	|
 | Internship at [TEEWare](https://github.com/teeware-io)	| 2021.6 ~ 2021.8	|  UI<br>BackEnd 	| TEEWare 웹 UI  <br> Vue * Golang   	|
 | [E-Library](https://github.com/201702083/E-Library) 	| 2021.6 	|  UI<br>DB 	| PHP를 이용한 전자도서관|
