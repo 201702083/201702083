@@ -35,7 +35,7 @@
 | Name 	| Due 	|  Role 	| Desc 	|
 |-----------------------------------------|-------------|----------------------------|---------------------------------------------------	|
 | [WhiteBox](https://github.com/leeyoungseok/2022-under-project-fl)	| 2022.2 ~	|  Server<br>DBA 	| 연합학습 기반 블랙박스 앱    	|
-| [Circle](https://github.com/probrainteam/circles-server)	| 2022.2 ~	|  Server<br>DBA 	| 중앙 집중식 암호화 기반<br>회원 관리 시스템    	|
+| [Circle-gin](https://github.com/probrainteam/circles-server)<br>[Circle-express](https://github.com/probrainteam/circles-server-node)	| 2022.2 ~	|  Server<br>DBA 	| 중앙 집중식 암호화 기반<br>회원 관리 시스템    	|
 | [Can-U-Join-Us](https://github.com/Can-U-Join-Us/CUJU-Backend)	| 2021.10 ~ 2021.12	|  Server<br>DBA 	| 팀원 모집 플랫폼    	|
 | Internship at [TEEWare](https://github.com/teeware-io)	| 2021.6 ~ 2021.8	|  UI<br>BackEnd 	| TEEWare 웹 UI  <br> Vue * Golang   	|
 | [E-Library](https://github.com/201702083/E-Library) 	| 2021.6 	|  UI<br>DB 	| PHP를 이용한 전자도서관|
