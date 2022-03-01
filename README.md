@@ -1,12 +1,8 @@
- 
-
-
-### CNU CSE Junior
-- CSE Junior of Chungnam National University
-- Currently learning cloud computing with docker
+### CNU CSE Senior
+- Currently learning `docker` `OOD` `Collaboration`
 
 ### Interest
-- Detecting object in image.
+- Finding fault, leak of algorithm
 - Optimizing DB control
 
 
