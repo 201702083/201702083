@@ -36,8 +36,6 @@
 | Internship at [TEEWare](https://github.com/teeware-io)	| 2021.6 ~ 2021.8	|  UI<br>BackEnd 	| TEEWare 웹 UI  <br> Vue * Golang   	|
 | [E-Library](https://github.com/201702083/E-Library) 	| 2021.6 	|  UI<br>DB 	| PHP를 이용한 전자도서관|
 | [Weather-App](https://github.com/201702083/RN-WeatherApp) 	| 2021.5 ~ 2021.6 	|  UI<br>Data Processing 	| OpenWeather Api를 이용하여<br> 하루 치의 날씨 정보 제공	|
-| [DataSetForDBclass](https://github.com/201702083/WebCrowling) 	| 2021.4 	| Crawling<br>Data Analysis 	| DB Class를 위한 자동화 코드 <br>  	|
-| [Go-stop Game](https://github.com/201702083/Gostop_TeamPrjt) | 2020.10 | Game alogirthm <br> | OOP Class TeamPRJ<br>    |
 
 <div align=center>
   
