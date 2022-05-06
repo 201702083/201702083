@@ -1,5 +1,5 @@
 ### CNU CSE Senior
-- Currently learning `docker` `OOD` `Collaboration`
+- Currently learning `docker` `OOD` `Collaboration` `SOLID`
 
 ### Interest
 - Finding fault, leak of algorithm
