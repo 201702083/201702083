@@ -1,5 +1,5 @@
 ### CNU CSE Senior
-- Currently learning `docker` `OOD` `Collaboration` `SOLID`
+- Currently learning `docker` `IaC` `Terraform` `SOLID`
 
 ### Interest
 - Finding fault, leak of algorithm
