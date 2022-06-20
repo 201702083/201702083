@@ -1,12 +1,5 @@
 ### CNU CSE Senior
-- Currently learning `docker` `IaC` `Terraform` `SOLID`
-
-### Interest
-- Finding fault, leak of algorithm
-- Optimizing DB control
-
-
-
+- Currently learning `docker` `IaC` `Terraform` `Data pipeline`
  
 <div align=center>
   
