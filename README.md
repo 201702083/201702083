@@ -26,7 +26,7 @@
 | [WhiteHCCTV](https://github.com/WhiteHCCTV)	| 2022.2 ~	|  Server<br>CI/CD 	| 연합학습 기반 홈CCTV 앱    	|
 | [Circle-gin](https://github.com/probrainteam/circles-server)<br>[Circle-express](https://github.com/probrainteam/circles-server-node)	| 2022.2 ~	|  Server<br>DBA 	| 중앙 집중식 암호화 기반<br>회원 관리 시스템    	|
 | [Can-U-Join-Us](https://github.com/Can-U-Join-Us/CUJU-Backend)	| 2021.10 ~ 2021.12	|  Server<br>DBA 	| 팀원 모집 플랫폼    	|
-| Internship at [TEEWare](https://github.com/teeware-io)	| 2021.6 ~ 2021.8	|  FullStack 	| TEEWare 웹 UI  <br> Vue * Golang   	|
+| Internship at [TEEWare](https://github.com/teeware-io)	| 2021.6 ~ 2021.8	|  FullStack 	| HSM 클라이언트 친화적 웹   	|
 | [E-Library](https://github.com/201702083/E-Library) 	| 2021.6 	|  FullStack 	| PHP를 이용한 전자도서관|
 | [Weather-App](https://github.com/201702083/RN-WeatherApp) 	| 2021.5 ~ 2021.6 	|  UI<br>Data Processing 	| OpenWeather Api를 이용하여<br> 하루 치의 날씨 정보 제공	|
 
