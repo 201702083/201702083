@@ -1,5 +1,5 @@
 ### CNU CSE Senior
-- Currently learning `docker` `IaC` `Terraform` `Data pipeline`
+- Currently learning `container` `Kubernetes` `Observability` `kafka`
  
 <div align=center>
   
